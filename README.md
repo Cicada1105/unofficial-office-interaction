@@ -1,2 +1,12 @@
-# unofficial-office-interaction
-TV Office episode(ratings, quotes, episode rankings, category, user submitted Easter eggs)  
+# Unofficial-TV-Show Forum
+
+Interact with other users with similar TV interests!
+
+View:
+* Quotes
+* Episodes
+* User submitted easter eggs
+
+Collect:
+* Achievements
+* Rankings
